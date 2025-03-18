@@ -1,4 +1,4 @@
-<h2 align="left">CRUD-SpringDataRest</h2>
+<h2 align="left">CRUD-SpringDataRest <img src="https://skillicons.dev/icons?i=spring" height="" alt="spring logo"  /></h2>
 
 ###
 
